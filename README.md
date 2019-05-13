@@ -1,2 +1,2 @@
 # qau
-its my discritpoin
+its my description
